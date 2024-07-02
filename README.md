@@ -9,6 +9,8 @@ Data provided in Excel format is currently structured in a pivot table layout, w
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
 This data model also shows how FACT_Teble has been connected to  necessary DIM tables.
+![model](https://github.com/islamabdaljawad/power-bi-HR/assets/75454981/29e79ed1-6a17-4111-9399-4e0d8bf13bcf)
+
 
 ## HR Management Dashboard
 The completed HR analytics dashboard features a consolidated overview page and two detailed pages. The overview page functions as a dashboard, offering a snapshot of key HR metrics and insights. The additional pages  provide in-depth analyses of employee behavior and attendance trends.
